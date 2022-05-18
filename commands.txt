@@ -6,8 +6,8 @@ git add -A              =add All untracked files to staging area
 
 git commit -m "message" = pass changes from staging area to local repository 
 
-git remote add branch_name repo_link  =to add repository
+git remote add name repo_link  =to add repository
 
 git remote -v   =to list the remote repository
 
-git push -u branch_name master   =to push to remote repository
+git push -u name branch   =to push to remote repository
