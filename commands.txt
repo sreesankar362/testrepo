@@ -6,4 +6,3 @@ git add -A              =add All untracked files to staging area
 
 git commit -m "message" = pass changes from staging area to local repository 
 
-*
